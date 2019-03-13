@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/naeem0398/C4CRE%20-%20iOS%20App/_apis/build/status/naeemshaikh90.pipelines-xcode?branchName=master)](https://dev.azure.com/naeem0398/C4CRE%20-%20iOS%20App/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
